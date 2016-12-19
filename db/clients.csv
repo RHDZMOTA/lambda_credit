@@ -1,0 +1,5 @@
+id_client,name,sex,birthday,own_house,premium_house,own_car,premium_car,active_job,monthly_income,postal_code,cellphone,premium_cellphone,historic_credits,score
+1,lawg,male,26/11/1995,0,0,1,0,1,not_available,not_available,Huawei,0,0,0
+2,rhm,male,20/07/1994,0,0,0,0,1,not_available,not_available,Samsung,1,0,0
+3,atrh,female,26/02/1995,0,0,0,0,1,not_available,not_available,Samsung,0,0,0
+4,shg,male,not_available,1,1,1,1,1,not_available,not_available,iPhone,1,0,0

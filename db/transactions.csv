@@ -1,0 +1,3 @@
+id_transac,id_investor,id_client,initial_capital,initial_date,final_capital,final_date,status,on_time,resolved,reference
+1,2,1,6000,21/09/2016,6328.51,21/03/2017,active,0,0,160921_1_2_1
+2,3,2,2000,21/09/2016,2000,21/03/2017,active,0,0,160921_2_3_2
