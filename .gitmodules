@@ -1,0 +1,3 @@
+[submodule "assets/financial_mathematics"]
+	path = assets/financial_mathematics
+	url = https://github.com/rhdzmota/financial_mathematics.git
